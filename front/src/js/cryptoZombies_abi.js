@@ -449,3 +449,5 @@ var cryptoZombiesABI = [
         "type": "event"
     }
 ]
+
+module.exports = {cryptoZombiesABI};
